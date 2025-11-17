@@ -1,0 +1,27 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+venv/
+env/
+
+# Conda environment folders
+conda-env/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local tooling
+.idea/
+.vscode/
